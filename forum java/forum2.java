@@ -34,6 +34,7 @@ public class forum2 {
             input.close();
         }
     }   
+
     //machine problem 2
     public static void printArrayInStars(){  
         Scanner input = new Scanner(System.in);//initiate scanner
@@ -60,10 +61,8 @@ public class forum2 {
                 }            
             System.out.println("("+items[i]+")"); //stars graph labeling
             }
-
         } 
         input.close();
-        
     }
 
     //machine problem 3
@@ -112,4 +111,3 @@ public class forum2 {
         input.close();
     }
 }
-
