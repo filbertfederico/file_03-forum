@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class forum2 {
     public static void main(String[] args){
-        // printArray();
-        // printArrayInStars();
+        printArray();
+        printArrayInStars();
         studentGrades();
     } 
 
